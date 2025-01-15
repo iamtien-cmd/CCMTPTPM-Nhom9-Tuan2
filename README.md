@@ -1,5 +1,5 @@
 # CCMTPTPM-Nhom9-Tuan2
-Trang Web Bán Mỹ Phẩm - OneShop
+Trang Web Bán Mỹ Phẩm - OneShopfgfgf
 1. Giới thiệu
 OneShop là trang web thương mại điện tử hiện đại, được phát triển với Java 21, Spring Boot 3, và Thymeleaf. Dự án mang đến trải nghiệm duyệt, đánh giá và mua sắm mỹ phẩm dễ dàng.
 Hệ thống sử dụng JPA và Spring Security để đảm bảo xác thực và phân quyền an toàn. Với giao diện trực quan, thân thiện, người dùng dễ dàng tìm kiếm, so sánh sản phẩm và thực hiện giao dịch với các tùy chọn thanh toán linh hoạt.
